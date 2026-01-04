@@ -1,13 +1,13 @@
 	[
 	  {
-	    "id": "evt_halloween",
-	    "name": "EVENTO ESPECIAL: HALLOWEEN HACK",
-	    "description": "¡Truco o Trato! Infiltra el servidor de dulces corporativos.",
+	    "id": "evt_welcome",
+	    "name": "EVENTO DE BIENVENIDA",
+	    "description": "¡Bienvenido hacker! Son misiones de nivel muy facil pero que te ayudaran a entender la mecánica del juego.",
 	    "minRep": 50,
-	    "cost": 200,
-	    "rewardMoney": 800,
-	    "rewardRep": 30,
-	    "risk": 0.4,
+	    "cost": 0,
+	    "rewardMoney": 10,
+	    "rewardRep": 5,
+	    "risk": 0.1,
 	    "active": true
 	  },
 	  {
