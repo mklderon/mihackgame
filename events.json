@@ -8,7 +8,8 @@
 	    "rewardMoney": 4870,
 	    "rewardRep": 600,
 	    "risk": 0.1,
-	    "active": true
+	    "active": true,
+		"endingOn": "2026-01-05T00:00:00"
 	  },
 	  {
 	    "id": "evt_blackfriday",
@@ -19,6 +20,7 @@
 	    "rewardMoney": 3000,
 	    "rewardRep": 100,
 	    "risk": 0.6,
-	    "active": true
+	    "active": true,
+		"endingOn": "2026-01-05T00:00:00"
 	  }
 	]
