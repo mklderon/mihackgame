@@ -5,8 +5,8 @@
 	    "description": "¡Bienvenido hacker! Son misiones de nivel muy facil pero que te ayudaran a entender la mecánica del juego.",
 	    "minRep": 50,
 	    "cost": 0,
-	    "rewardMoney": 4870,
-	    "rewardRep": 600,
+	    "rewardMoney": 3480,
+	    "rewardRep": 50,
 	    "risk": 0.1,
 	    "active": true,
 		"endingOn": "2026-01-05T00:00:00"
