@@ -1,0 +1,24 @@
+	[
+	  {
+	    "id": "evt_halloween",
+	    "name": "EVENTO ESPECIAL: HALLOWEEN HACK",
+	    "description": "¡Truco o Trato! Infiltra el servidor de dulces corporativos.",
+	    "minRep": 50,
+	    "cost": 200,
+	    "rewardMoney": 800,
+	    "rewardRep": 30,
+	    "risk": 0.4,
+	    "active": true
+	  },
+	  {
+	    "id": "evt_blackfriday",
+	    "name": "BLACK FRIDAY CYBER SALE",
+	    "description": "Oportunidad única de comprar exploits a precio de costo.",
+	    "minRep": 150,
+	    "cost": 1000,
+	    "rewardMoney": 3000,
+	    "rewardRep": 100,
+	    "risk": 0.6,
+	    "active": true
+	  }
+	]
