@@ -4,7 +4,7 @@
 	    "name": "EVENTO DE BIENVENIDA",
 	    "description": "¡Bienvenido hacker! Son misiones de nivel muy facil pero que te ayudaran a entender la mecánica del juego.",
 	    "minRep": 50,
-	    "cost": 0,
+	    "cost": 200,
 	    "rewardMoney": 3480,
 	    "rewardRep": 50,
 	    "risk": 0.1,
